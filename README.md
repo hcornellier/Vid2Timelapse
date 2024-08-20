@@ -1,4 +1,4 @@
-🎥 Video2Timelapse
+# 🎥 Video2Timelapse
 
 Video2Timelapse is a native desktop app to transform your videos into timelapses.
 
